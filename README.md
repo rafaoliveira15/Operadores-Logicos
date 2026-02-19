@@ -33,11 +33,15 @@ Este projeto tem como finalidade:
 ```
 📁 operadores-logicos-js
 │
-├── &&.html              → Operador &&
-├── pelomenosuma.html    → Operador ||
-├── operadorlogico.html  → Operador !
+├── index(&&).html              → Operador &&
+├── index2.html    → Operador ||
+├── index(!).html  → Operador !
 │
-└── script.js            → Lógica de verificação
+└── script1.js            → Lógica de verificação
+│
+└── script2.js            → Lógica de verificação
+│
+└── script3.js            → Lógica de verificação
 ```
 
 Cada página possui sua própria lógica aplicada ao operador correspondente.
