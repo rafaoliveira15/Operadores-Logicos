@@ -33,7 +33,7 @@ Este projeto tem como finalidade:
 ```
 📁 operadores-logicos-js
 │
-├── index(&&).html              → Operador &&
+├── index(&&).html → Operador &&
 ├── index2.html    → Operador ||
 ├── index(!).html  → Operador !
 │
